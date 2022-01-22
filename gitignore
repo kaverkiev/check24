@@ -1,0 +1,12 @@
+#Maven files
+target
+
+#Intellij
+.idea
+
+# report files
+/.allure/
+/.allure
+.allure/
+/.gitignore
+
