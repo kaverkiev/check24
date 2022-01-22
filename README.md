@@ -1,6 +1,3 @@
-Description
-Repository contains test framework with next test task:
-
 ## Selenium Test Task
 
 Implement a selenium test that executes the following steps:
